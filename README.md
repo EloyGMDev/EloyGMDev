@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Eloy%20·%20EloyGMDev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20from%20Catalonia%2C%20Spain&descSize=16&descAlignY=55&descColor=c084fc" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:a855f7,100:c084fc&height=200&section=header&text=Eloy%20·%20EloyGMDev&fontSize=46&fontColor=fff&animation=fadeIn&fontAlignY=36&desc=Developer%20from%20Catalonia%2C%20Spain&descSize=17&descAlignY=58&descColor=e9d5ff" width="100%" />
 
 </div>
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=800&color=a855f7&center=true&vCenter=true&width=650&lines=Building+automation+tools+powered+by+AI;Turning+ideas+into+working+software;Always+learning%2C+always+shipping" alt="Typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&duration=3000&pause=800&color=a855f7&center=true&vCenter=true&width=650&lines=Building+automation+tools+powered+by+AI;Android+developer+on+Google+Play;Turning+ideas+into+working+software;Always+learning%2C+always+shipping" alt="Typing" />
 
 </div>
 
@@ -16,11 +16,11 @@
 
 <div align="center">
 
-![Location](https://img.shields.io/badge/Location-Catalonia%2C%20Spain-c026d3?style=flat-square&logo=googlemaps&logoColor=white)
-![Language](https://img.shields.io/badge/Languages-ES%20·%20CAT%20·%20EN-0ea5e9?style=flat-square)
-![Workflow](https://img.shields.io/badge/Workflow-AI%20Assisted-a855f7?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Building-22c55e?style=flat-square)
-![Views](https://komarev.com/ghpvc/?username=EloyGMDev&style=flat-square&color=a855f7&label=Profile+Views)
+[![Location](https://img.shields.io/badge/Catalonia%2C%20Spain-c026d3?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/catalonia)
+[![Website](https://img.shields.io/badge/eloygm.com-0ea5e9?style=flat-square&logo=safari&logoColor=white)](https://eloygm.com)
+[![Instagram](https://img.shields.io/badge/@eloygumo-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/eloygumo)
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6605173477786948967)
+[![Profile Views](https://komarev.com/ghpvc/?username=EloyGMDev&style=flat-square&color=a855f7&label=Profile+Views)](https://github.com/EloyGMDev)
 
 </div>
 
@@ -30,14 +30,16 @@
 
 ### About me
 
-I build practical automation tools — the kind that actually save time.  
-Focused on integrating AI models into real, local, usable applications.  
+I build practical tools — the kind that actually save time and solve real problems.  
+From Android apps on Google Play to local AI-powered automation suites.  
 No corporate environment. Just ideas, code, and shipping things that work.
 
 - Based in **Catalonia, Spain**
+- Published apps on **[Google Play Store](https://play.google.com/store/apps/dev?id=6605173477786948967)**
 - Currently building: **[Vomcat](https://github.com/EloyGMDev/vomcat)** — AI-powered YouTube Shorts automation
-- Interested in: AI integrations, local tooling, video automation, workflow automation
-- Working with: Python · FastAPI · Google Gemini · JavaScript · FFmpeg
+- Portfolio & personal site: **[eloygm.com](https://eloygm.com)**
+- Find me on Instagram: **[@eloygumo](https://instagram.com/eloygumo)**
+- Interested in: Android development, AI integrations, video automation, local tooling
 
 <br/>
 
@@ -45,18 +47,25 @@ No corporate environment. Just ideas, code, and shipping things that work.
 
 ### Stack
 
-<div>
+**Mobile**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+
+**Web & Backend**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**AI & Tools**
+
 ![Google Gemini](https://img.shields.io/badge/Gemini%20AI-a855f7?style=for-the-badge&logo=google-gemini&logoColor=white)
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007800?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
 
 <br/>
 
@@ -110,12 +119,20 @@ No corporate environment. Just ideas, code, and shipping things that work.
 
 </div>
 
-<br/>
-
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+[![Instagram](https://img.shields.io/badge/Follow%20on%20Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/eloygumo)
+&nbsp;
+[![Website](https://img.shields.io/badge/Visit%20eloygm.com-0ea5e9?style=for-the-badge&logo=safari&logoColor=white)](https://eloygm.com)
+&nbsp;
+[![Google Play](https://img.shields.io/badge/Apps%20on%20Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6605173477786948967)
 
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:a855f7,100:7c3aed&height=120&section=footer&reversal=true" width="100%" />
 </div>
